@@ -1,0 +1,28 @@
+{
+    "carros": [
+        {
+            "id": "1",
+            "Marca": "Ferrari",
+            "Detalhes": "F8",
+            "Foto": "https:\/\/www.motor24.pt\/files\/2019\/03\/1681733_Ferrari_F8_Tributo_4-800x533_c.jpg"
+        },
+        {
+            "id": "2",
+            "Marca": "McLaren",
+            "Detalhes": "720s Spider",
+            "Foto": "https:\/\/uploads.diariodopoder.com.br\/2022\/08\/01e5f9d4-2batch_mclaren-720s_spider-2019-1600-02-960x640.jpg"
+        },
+        {
+            "id": "3",
+            "Marca": "Honda",
+            "Detalhes": "Civic Type R",
+            "Foto": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjj9OScGigPhwa1oiMD4AzPNf2FH15wArfTukdKaV6sGuZ0f71HsslsgWErMh2j5MW0zAkctDUS5TvsLS4vURGhMW-iiPbdA30D0VNzSB3FAj8i1n9NVFa5QLgp3QUT0jMQj17gPHuJjhs\/s640-rw\/Honda-Civic-Type-R+%25283%2529.jpg"
+        },
+        {
+            "id": "5",
+            "Marca": "Bugatti",
+            "Detalhes": "Chiron",
+            "Foto": "https:\/\/cdn.aquelamaquina.pt\/images\/2024-01\/img_944x629$2024_01_31_17_25_51_232308.jpg"
+        }
+    ]
+}
